@@ -40,7 +40,12 @@ somne screen shot of the demos =
 -- it is more accurate and calulated realtime web app that will let you see a big set of data through a graphical respresntation
 
 2. why we created it?
-   we see a problem in vitualising detain in real estate industry
+   lets be real we see a problem in vitualising detain in real estate industry
 
 3. how accurate this modle is?
-   100% because it conatin basic math function not an ai or machine learning 
+   100% because it conatin basic math function not an ai or machine learning
+
+
+   my app if you want to run it = https://realstateanalysis-pudvtjms83qfqb8ponwwi9.streamlit.app/
+
+   
