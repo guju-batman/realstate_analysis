@@ -24,8 +24,8 @@ it will give you url link to run it on ur broswer
 
 heave a nice day!
 
-respectives members = harsh dholakiya
-sanchit singh 
+respectives members = harsh dholakiya,
+sanchit singh,
 chaitanya barad
 
 somne screen shot of the demos =
@@ -33,3 +33,14 @@ somne screen shot of the demos =
 
 ![Screenshot 2025-04-09 120513](https://github.com/user-attachments/assets/cbd9be21-e562-4dc1-ad3b-ab39bf273353)
 
+-- not so important stuff --
+
+
+1.why to choose our model?
+-- it is more accurate and calulated realtime web app that will let you see a big set of data through a graphical respresntation
+
+2. why we created it?
+   we see a problem in vitualising detain in real estate industry
+
+3. how accurate this modle is?
+   100% because it conatin basic math function not an ai or machine learning 
