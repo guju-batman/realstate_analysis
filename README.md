@@ -33,7 +33,7 @@ somne screen shot of the demos =
 
 ![Screenshot 2025-04-09 120513](https://github.com/user-attachments/assets/cbd9be21-e562-4dc1-ad3b-ab39bf273353)
 
--- not so important stuff --
+-- important stuff --
 
 
 1.why to choose our model?
